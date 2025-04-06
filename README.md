@@ -5,7 +5,7 @@ This project automates the generation of prototyping reports for **MyGoat**, str
 
 ## 👤 Contributor  
 **Ashner Gerald Novilla**  
-Software Engineer | PhD Candidate in Applied Computing  
+Software Engineer 
 Expert in Big Data, Data Science, and Automation
 
 ## 📌 Features

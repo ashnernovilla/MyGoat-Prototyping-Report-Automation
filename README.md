@@ -1,7 +1,7 @@
-# 🐐 MyGoat Prototyping Report Automation
+# 🐐 Robotic Mowing Machine Prototyping Report Automation
 
 ## Overview  
-This project automates the generation of prototyping reports for **MyGoat**, streamlining the process of collecting, analyzing, and presenting prototyping data. By integrating SQL-based data extraction, LLM-powered narrative generation, and automation pipelines, the system ensures timely, consistent, and accurate reports with minimal manual effort.
+This project automates the generation of prototyping reports for **Robotic Mowing Machine**, streamlining the process of collecting, analyzing, and presenting prototyping data. By integrating SQL-based data extraction, LLM-powered narrative generation, and automation pipelines, the system ensures timely, consistent, and accurate reports with minimal manual effort.
 
 ## 👤 Contributor  
 **Ashner Gerald Novilla**  

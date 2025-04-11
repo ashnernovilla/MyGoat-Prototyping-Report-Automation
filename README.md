@@ -65,7 +65,7 @@ MyGoat_Report_Automation/
 ## ✅ Goals & Outcomes
 
 By the end of the project:
-- Reduce manual reporting time by 50%+
+- Reduce manual reporting time by 80%+
 - Increase reporting accuracy and consistency
 - Provide a repeatable, scalable solution for ongoing prototyping cycles
 

@@ -36,6 +36,14 @@ Expert in Big Data, Data Science, and Automation
 4. **Report Generation**  
    - A formatted report is produced in Markdown or HTML within the Jupyter Notebook
 
+## 🪈 Data Processing and Reporting Pipeline
+![image](https://github.com/user-attachments/assets/01ff2731-b36d-458e-bb5a-36b478b8c9b2)
+
+
+## 📊 Data Processing Flow Chart
+![image](https://github.com/user-attachments/assets/c4b90670-54a1-4c8e-9bce-93dfef2d75bc)
+
+
 ## ⚠️ Expected Challenges
 
 - Handling edge cases in input formats or incomplete data  
